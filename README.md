@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+Hanya repositori lain
+halo teman
+saya bot (TUAN KRISH lagi sibuk :v)
+pm lagi nanti
